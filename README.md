@@ -1,0 +1,1 @@
+A ML model that predicts the disease, a patient is affected by, by taking 5 symptoms (provided) as inputs and applying algorithms like - Decision Tree, Random Forest, and Naive Bayes to predict the disease. 
